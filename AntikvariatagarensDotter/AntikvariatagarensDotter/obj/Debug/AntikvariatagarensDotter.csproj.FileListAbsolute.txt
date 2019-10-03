@@ -1,0 +1,7 @@
+C:\FTP\programering\AntikvariatagarensDotter\AntikvariatagarensDotter\bin\Debug\AntikvariatagarensDotter.exe.config
+C:\FTP\programering\AntikvariatagarensDotter\AntikvariatagarensDotter\bin\Debug\AntikvariatagarensDotter.exe
+C:\FTP\programering\AntikvariatagarensDotter\AntikvariatagarensDotter\bin\Debug\AntikvariatagarensDotter.pdb
+C:\FTP\programering\AntikvariatagarensDotter\AntikvariatagarensDotter\obj\Debug\AntikvariatagarensDotter.csprojAssemblyReference.cache
+C:\FTP\programering\AntikvariatagarensDotter\AntikvariatagarensDotter\obj\Debug\AntikvariatagarensDotter.csproj.CoreCompileInputs.cache
+C:\FTP\programering\AntikvariatagarensDotter\AntikvariatagarensDotter\obj\Debug\AntikvariatagarensDotter.exe
+C:\FTP\programering\AntikvariatagarensDotter\AntikvariatagarensDotter\obj\Debug\AntikvariatagarensDotter.pdb
